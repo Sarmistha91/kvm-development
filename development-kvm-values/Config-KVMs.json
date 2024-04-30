@@ -1,0 +1,134 @@
+[
+    {
+        "entry": [
+            {
+                "name": "clientId",
+                "value": "dsfds"
+            },
+            {
+                "name": "clientSecret",
+                "value": "dsffs"
+            },
+            {
+                "name": "username",
+                "value": "sdf"
+            },
+            {
+                "name": "password",
+                "value": "dsfsd"
+            },
+            {
+                "name": "cluster_id",
+                "value": "dsf"
+            },
+            {
+                "name": "topic_name",
+                "value": "sadsfd"
+            }
+        ],
+        "name": "cicd-dummy-kvm-1"
+    },
+    {
+        "entry": [
+            {
+                "name": "client_id",
+                "value": "adsf"
+            },
+            {
+                "name": "client_secret",
+                "value": "adas"
+            }
+        ],
+        "name": "cicd-dummy-kvm-2"
+    },
+    {
+      "entry": [
+          {
+              "name": "client_id",
+              "value": "huaskdhkasdhksjah-ashdkashd-iydufkasdk-asdasdad"
+          },
+          {
+              "name": "client_secret",
+              "value": "uahdkajshdasiuasdakdh-ashdkajshdkahda-ywiegbskdkashd"
+          }
+      ],
+      "name": "cicd-dummy-kvm-3"
+  },{
+      "entry": [
+          {
+              "name": "client_id",
+              "value": "sdfsfsdfsdfsd-ashdkashd-iydufkasdk-asdasdad"
+          },
+          {
+              "name": "client_secret",
+              "value": "werwerwerwerer-ashdkajshdkahda-ywiegbskdkashd"
+          }
+      ],
+      "name": "cicd-dummy-kvm-4"
+  },{
+      "entry": [
+          {
+              "name": "client_id",
+              "value": "tjghsfgeartagdg-ashdkashd-iydufkasdk-asdasdad"
+          },
+          {
+              "name": "client_secret",
+              "value": "wrfsgsdfgdhsfghsdgadg-ashdkajshdkahda-ywiegbskdkashd"
+          }
+      ],
+      "name": "cicd-dummy-kvm-5"
+  },
+  {
+      "entry": [
+          {
+              "name": "client_id",
+              "value": "tjghsfgeartagdg-ashdkashd-iydufkasdk-asdasdad"
+          },
+          {
+              "name": "client_secret",
+              "value": "wrfsgsdfgdhsfghsdgadg-ashdkajshdkahda-ywiegbskdkashd"
+          }
+      ],
+      "name": "cicd-dummy-kvm-6"
+  },
+  {
+      "entry": [
+          {
+              "name": "client_id",
+              "value": "tjghsfgeartagdg-ashdkashd-iydufkasdk-asdasdad"
+          },
+          {
+              "name": "client_secret",
+              "value": "wrfsgsdfgdhsfghsdgadg-ashdkajshdkahda-ywiegbskdkashd"
+          },
+          {
+              "name": "Test_secret_addition",
+              "value": "testSecret"
+          }
+      ],
+      "name": "cicd-dummy-kvm-7"
+  },
+  {
+    "entry": [
+        {
+            "name": "apikey",
+            "value": "G3wdBtuj*meGCh3ERCDD6qb3xLP6JEqkQuM.fQfzNxwdWJ7BC3mruhex*wh_fi5F"
+        }
+       
+    ],
+    "name": "auth0SFDC"
+},
+{
+      "entry": [
+          {
+              "name": "Test_ID",
+              "value": "test"
+          },
+          {
+              "name": "Test_secret",
+              "value": "testSecret"
+          }
+      ],
+      "name": "CICD-Test"
+  }
+  ]

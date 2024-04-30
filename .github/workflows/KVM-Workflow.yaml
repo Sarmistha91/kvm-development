@@ -1,0 +1,14 @@
+name: KVM-Calling-Workflow
+run-name: ${{ github.actor }} ran pipeline for APIGEE KVM values deployment.
+on:
+  pull_request:
+      branches:
+        - production
+      types:
+        - opened
+jobs:
+  Call_KVM_Reusable_workflow:
+    uses: project/apigee-cicd/.github/workflows/KVM-CICD.yml@main
+    secrets: inherit
+    with:
+      apigee-environment: development
